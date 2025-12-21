@@ -26,3 +26,41 @@ background-color: powderblue;
 
 
 }
+
+
+
+.Puppies_tesxt_img_continer{
+
+display: grid; 
+grid-template-columns: 1fr 1fr;
+
+
+
+
+
+
+
+
+outline: 2px solid lime;
+
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+table{
+
+
+text-align: center
+
+
+}
+
+
+
+
+
